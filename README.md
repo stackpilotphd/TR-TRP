@@ -4,15 +4,7 @@ This repository provides the data, source code, computational results, and
 supporting documentation for the **Tower Repositioning and Technician Routing
 Problem for Communication Recovery (TR-TRP)**.
 
-The project studies the coordinated deployment of mobile communication towers
-and technician crews following a disruption. Towers must be routed and
-positioned among affected zones, while technicians travel between repair tasks.
-The two routing decisions are linked through the communication zones served by
-each task.
-
-The repository includes deterministic and robust experiment sets. The robust
-variants account for uncertainty under several uncertainty budgets and parameter
-levels. The source code, configuration files, instance archives, and numerical
+The source code, configuration files, instance archives, and numerical
 results are provided to support reproducibility and further computational
 experimentation.
 
