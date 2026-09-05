@@ -14,7 +14,6 @@ experimentation.
 TR-TRP/
 ├── README.md
 ├── LICENSE
-├── CITATION.cff
 ├── src/
 ├── config/
 │   ├── solver.properties
@@ -43,8 +42,6 @@ TR-TRP/
   configuration, and execution instructions.
 - [`docs/INSTANCE_FORMAT.md`](docs/INSTANCE_FORMAT.md) explains the contents and
   required format of the instance files.
-- [`CITATION.cff`](CITATION.cff) provides citation metadata for this repository
-  and the associated manuscript.
 
 ## Software requirements
 
@@ -89,13 +86,6 @@ comparison.
 Together with the included source code, configuration files, and complete
 instance archives, these results support reproducibility and further
 computational experimentation.
-
-## Citation
-
-The manuscript associated with this repository has been **submitted for peer
-review and is not yet published**.
-
-Citation metadata will be provided in [`CITATION.cff`](CITATION.cff) when the manuscript is accepted or published.
 
 ## License
 
