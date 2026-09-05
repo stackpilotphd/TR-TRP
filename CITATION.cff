@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: >-
+  If you use this repository in your research, please cite the associated
+  manuscript listed under preferred-citation. The manuscript has been submitted
+  for peer review and is not yet published.
+
+title: "TR-TRP: Tower Repositioning and Technician Routing Problem for Communication Recovery"
+type: software
+
+# Replace the placeholder author information below with the repository authors.
+authors:
+  - family-names: "YOUR_FAMILY_NAME"
+    given-names: "YOUR_GIVEN_NAMES"
+
+abstract: >-
+  Research code, computational instances, configuration files, and numerical
+  results for the Tower Repositioning and Technician Routing Problem for
+  Communication Recovery (TR-TRP). The project studies the coordinated
+  deployment of mobile communication towers and technician crews following a
+  disruption, including deterministic and robust variants.
+
+keywords:
+  - "tower repositioning"
+  - "technician routing"
+  - "communication recovery"
+  - "robust optimization"
+  - "routing"
+  - "disaster recovery"
+
+preferred-citation:
+  type: article
+  title: "The Tower Repositioning and Technician Routing Problem for Communication Recovery"
+  status: submitted
+
+  # Replace the placeholder author information below with the manuscript authors,
+  # in the same order used in the submitted paper.
+  authors:
+    - family-names: "YOUR_FAMILY_NAME"
+      given-names: "YOUR_GIVEN_NAMES"
