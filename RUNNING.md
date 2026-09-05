@@ -12,9 +12,7 @@ Install the following software before building the project:
 - **IBM ILOG CPLEX Optimization Studio**, including its Java API and a valid
   CPLEX license.
 - **Gurobi Optimizer**, including its Java API and a valid Gurobi license.
-- **IntelliJ IDEA** is recommended because this repository is supplied as an
-  IntelliJ Java module (`TR-TRP.iml`). There is currently no Maven or Gradle
-  build file.
+- **IntelliJ IDEA** is recommended.
 
 Both solver installations are required to compile the complete source tree:
 some classes import CPLEX APIs and the generic solver layer imports both CPLEX
