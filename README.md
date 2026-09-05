@@ -103,8 +103,7 @@ computational experimentation.
 The manuscript associated with this repository has been **submitted for peer
 review and is not yet published**.
 
-Citation metadata are provided in [`CITATION.cff`](CITATION.cff). The citation
-information should be updated when the manuscript is accepted or published.
+Citation metadata will be provided in [`CITATION.cff`](CITATION.cff) when the manuscript is accepted or published.
 
 ## License
 
